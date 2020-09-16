@@ -2,11 +2,6 @@
 
 This is the source files for the UCS611 project based on SARS-COVID-19 epidemic modelling.
 
-The model has been developed by 
-
-Name: Puneet Mishra
-Roll Number: 101715121
-Batch: ENC 6
 
 The model has the aim of implementing the following,
 
